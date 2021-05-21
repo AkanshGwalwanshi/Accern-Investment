@@ -352,8 +352,8 @@ ul#sec-1-nav{
     color: rgb(124, 124, 124);
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    padding-top: 1vh;
-    padding-bottom: 1vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
     padding-right: 6vw;
 }
 #para-5-button:hover{
